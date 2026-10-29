@@ -8,3 +8,5 @@ console.log(teste)
 
 teste = A
 console.log(teste)
+
+/* console.log(a) */
